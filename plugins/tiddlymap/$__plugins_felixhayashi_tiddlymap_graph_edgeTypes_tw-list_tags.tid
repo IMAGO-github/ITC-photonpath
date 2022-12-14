@@ -1,0 +1,4 @@
+description: A tag that refers to a tiddler of the same name.
+label: tagged with
+style: { "color": "darkslategray", "dashes":true}
+title: $:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/tw-list:tags

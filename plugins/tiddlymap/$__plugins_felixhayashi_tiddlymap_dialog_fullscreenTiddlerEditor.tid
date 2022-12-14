@@ -1,0 +1,11 @@
+classes: tmap-modal-fullscreen-editor tmap-remove-top-space
+subtitle: {{$:/core/images/edit-button}} <<originalTRef>>
+title: $:/plugins/felixhayashi/tiddlymap/dialog/fullscreenTiddlerEditor
+
+\rules except wikilink
+
+\define defaultTab() $:/plugins/felixhayashi/tiddlymap/dialog/fullscreenTiddlerEditor/original
+
+<$macrocall $name="tabs"
+    default=<<defaultTab>>
+    tabsList="[all[shadows]prefix[$:/plugins/felixhayashi/tiddlymap/dialog/fullscreenTiddlerEditor/]]" />
