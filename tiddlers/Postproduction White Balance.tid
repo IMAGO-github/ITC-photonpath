@@ -1,0 +1,12 @@
+caption: White\nBalance
+color: #c86432
+created: 20220325222542667
+creator: daniele
+modified: 20221130105230525
+modifier: daniele
+title: Postproduction White Balance
+tmap.edges: {"63e14534-25d2-402c-996c-bd8e65c730ee":{"to":"764c525a-7eb4-4500-b8e8-3ed5e6d0160e","type":"tmap:unknown"}}
+tmap.id: 126baaa8-2208-44c9-8e03-d55640960a76
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+replicates [[In Camera White Balance]]

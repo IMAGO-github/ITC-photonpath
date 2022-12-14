@@ -1,0 +1,11 @@
+caption: Convert to \nMezzanine Primaries
+created: 20220506084537944
+modified: 20221130111945195
+title: Postproduction Convert to Mezzanine Primaries
+tmap.edges: {"4e6ea1cf-6d06-4966-88d8-21f79f802ef0":{"to":"28e22e58-40d0-412a-8933-0935e3082040","type":"unknown"},"4119f988-502f-484a-882f-e8373c34be23":{"to":"abb6bebe-e7d0-4c5a-9acb-147300ca3a98","type":"unknown"}}
+tmap.id: 8c3c365d-bf12-4450-8907-17bdaaa038bc
+tmap.style: {"font":{"size":20}}
+
+Often mezzanine files for archive and VFX are stored in a standard colour space like ACES Linear AP0.
+
+https://ieeexplore.ieee.org/document/9343931

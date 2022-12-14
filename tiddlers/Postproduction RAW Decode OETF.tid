@@ -1,0 +1,11 @@
+caption: OETF
+created: 20220504135658132
+modified: 20221130105538424
+title: Postproduction RAW Decode OETF
+tmap.edges: {"a70bc8b1-9524-4ebd-ae99-1a1c23161001":{"to":"43ed5254-e0cc-4a2e-bedf-6437df3b42a8","type":"unknown"}}
+tmap.id: daf759cf-8fff-4a6c-b578-ea4ed1798646
+tmap.style: {"font":{"size":20}}
+
+SDK side OETF:
+Conversion in postproduction from linear to encoding, please see [[OETF]] for more information
+

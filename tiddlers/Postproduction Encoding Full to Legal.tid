@@ -1,0 +1,12 @@
+caption: Full to\nLegal
+created: 20220506084337390
+modified: 20221130115648236
+title: Postproduction Encoding Full to Legal
+tmap.edges: {"f8749f9b-f34d-40ad-9904-e5338e00679f":{"to":"93aac973-53b5-4565-8153-d543bdf86279","type":"unknown"},"7470d76e-2f7a-42c4-b3a8-750f73e9e83c":{"to":"99638417-d1a4-4af3-8979-eb638b996d6f","type":"unknown"}}
+tmap.id: 765839a7-4be7-4375-887f-6643d47245a1
+tmap.style: {"font":{"size":20}}
+
+For encoding the signal on the wire, typically, the video signal is encoded in [[Video Range]], especially if [[Colour Subsampling]] is used.
+
+For more infos see [[Signal Range]]
+

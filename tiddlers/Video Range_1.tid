@@ -1,0 +1,7 @@
+created: 20220506105952918
+modified: 20220506110536591
+title: Video Range
+tmap.id: 26b75e64-d5a4-47d1-a173-309af25b798a
+
+Image data wherein reference black and reference white are coded at a 10‑bit interface to the data values 64 and 940, respectively.
+(For systems having more than 10-bit components, these reference values are multiplied by the appropriate power of two.) Data values outside the reference range – into the “foot room” and/or “head room” regions – are permitted, but interface data values less than 4 or 1020 or greater are prohibited. Sometimes called standard or normal.

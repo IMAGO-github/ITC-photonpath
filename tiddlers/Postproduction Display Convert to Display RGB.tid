@@ -1,0 +1,9 @@
+caption: Encoding RGB\n to Display RGB
+created: 20220506084748550
+modified: 20221130115844063
+title: Postproduction Display Convert to Display RGB
+tmap.edges: {"3e70b126-2553-4815-a87f-5729bb768735":{"to":"eeb1004f-65db-434a-a97b-58c90a2fc24e","type":"unknown"}}
+tmap.id: ed306087-b6cd-4b53-9f2f-c2614ec5642c
+tmap.style: {"font":{"size":20}}
+
+One of the last stages is the transformation from the encoding gamut to the actual gamut of the actual display in use.

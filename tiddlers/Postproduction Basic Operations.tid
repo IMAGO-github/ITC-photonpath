@@ -1,0 +1,17 @@
+caption: Basic\nOperation
+created: 20220504141433810
+modified: 20221205090538499
+title: Postproduction Basic Operations
+tmap.edges: {"26b97304-1b8f-4adb-88c4-81961a5e9c97":{"to":"faa995d4-f75c-49ca-a70b-005e3b965fd8","type":"unknown"}}
+tmap.id: f7d890e2-f84f-467e-81c4-fd941c819093
+tmap.style: {"font":{"size":20}}
+
+Basic operations do not (or nearly not) change the scene-referred image state:
+
+* Flare, 
+* Exposure, 
+* CDL (only Offset)
+* White Balance Denise
+* Gamut Compression
+
+https://lowepost.com/courses/blog/color-decision-list-explained-r30/

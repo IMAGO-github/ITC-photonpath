@@ -1,0 +1,14 @@
+caption: Convert to video encoding RGB
+created: 20220506084149155
+modified: 20221130115205816
+title: Postproduction Convert to video encoding RGB
+tmap.edges: {"9fcba708-9570-4a3a-9e0c-3fcc5b3446e4":{"to":"6b424409-6c63-47bd-98e7-fb78032b9c69","type":"unknown"}}
+tmap.id: c72b1c27-b811-4eb3-91d4-0648d5fe5db0
+tmap.style: {"font":{"size":20}}
+
+Converting the signal to the desired display primaries.
+
+* Rec.709
+* P3 D60
+* X'Y'Z'
+* Rec.2020

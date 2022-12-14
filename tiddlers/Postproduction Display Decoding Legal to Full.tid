@@ -1,0 +1,11 @@
+caption: Legal to\nFull
+created: 20220506084653442
+modified: 20221130123143516
+title: Postproduction Display Decoding Legal to Full
+tmap.edges: {"44f73574-c04d-44c7-8ea0-801c6c0cbffc":{"to":"7acee848-b0f0-49a0-a443-9f229c38f7b1","type":"unknown"}}
+tmap.id: 99638417-d1a4-4af3-8979-eb638b996d6f
+tmap.style: {"font":{"size":20}}
+
+The previously performed conversion to [[Video Range]] must be undone to decode the [[Full Range]] video signal. 
+
+For more infos see [[Signal Range]]

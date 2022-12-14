@@ -1,0 +1,9 @@
+caption: Colour\nProfiling
+created: 20220504135546747
+modified: 20221130105459161
+title: Postproduction RAW Decode Colour Profiling
+tmap.edges: {"b39af45a-7ccd-485d-adcc-42fa09417866":{"to":"daf759cf-8fff-4a6c-b578-ea4ed1798646","type":"unknown"}}
+tmap.id: c66c7e42-7ad1-4af7-858a-77369e5a0e57
+tmap.style: {"font":{"size":20}}
+
+replicates [[In Camera RGB Characterisation]]

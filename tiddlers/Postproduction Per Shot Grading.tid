@@ -1,0 +1,18 @@
+caption: Per Shot\nGrading
+color: #c86432
+created: 20220504141629406
+modified: 20221130114725741
+title: Postproduction Per Shot Grading
+tmap.edges: {"3c12add8-19c6-41a4-9d2b-a329cd01bc41":{"to":"4d915914-c829-40b8-a811-761f140f782f","type":"unknown"}}
+tmap.id: faa995d4-f75c-49ca-a70b-005e3b965fd8
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+Everything advanced like:
+
+* changing contrast and colour balance
+* isolated edits on parts of the image or the colour volume (shapes and keys)
+* retexturing
+* relighting
+* sky replacements
+* paints
+etc...

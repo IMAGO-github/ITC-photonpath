@@ -1,0 +1,10 @@
+caption: Decoding
+created: 20220504135822376
+modified: 20221130105657021
+title: Postproduction RGB Decoding
+tmap.edges: {"48994f00-f6ab-43e5-a184-4682745437b3":{"to":"56b80491-140a-4bdf-8d5e-1f60b23e77a9","type":"unknown"}}
+tmap.id: 51487feb-73b4-4018-8795-c851169414ee
+tmap.style: {"font":{"size":20}}
+
+* possible Decompression
+* Possible reconstruction of RGB data to YCC.

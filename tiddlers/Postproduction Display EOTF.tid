@@ -1,0 +1,9 @@
+caption: EOTF
+created: 20220506084722234
+modified: 20221130123220109
+title: Postproduction Display EOTF
+tmap.edges: {"06e2190c-078a-4f0f-98d7-84e1ee10e251":{"to":"ed306087-b6cd-4b53-9f2f-c2614ec5642c","type":"unknown"}}
+tmap.id: 7acee848-b0f0-49a0-a443-9f229c38f7b1
+tmap.style: {"font":{"size":20}}
+
+see [[EOTF]]

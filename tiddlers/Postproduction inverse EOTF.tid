@@ -1,0 +1,11 @@
+caption: Inverse\nEOTF
+created: 20220506084221963
+modified: 20221130115406141
+title: Postproduction inverse EOTF
+tmap.edges: {"c4a62a3e-112a-4d33-8bd2-ccca445d308d":{"to":"765839a7-4be7-4375-887f-6643d47245a1","type":"unknown"},"fb131eff-9f49-4b26-a698-64c75827c2a8":{"to":"93aac973-53b5-4565-8153-d543bdf86279","type":"unknown"}}
+tmap.id: 6b424409-6c63-47bd-98e7-fb78032b9c69
+tmap.style: {"font":{"size":20}}
+
+To get our desired light output on display, we need to inverse the [[Displays EOTF | Postproduction Display Convert to Display RGB].
+
+See also [[EOTF]]

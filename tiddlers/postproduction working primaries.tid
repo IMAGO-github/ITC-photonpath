@@ -1,0 +1,10 @@
+caption: convert to\nwork(ing) gamut
+created: 20220504140036848
+modified: 20221130113234512
+title: postproduction working primaries
+tmap.edges: {"ed40c41a-ef1e-4bb5-8475-f3717a6cd72e":{"to":"129223a7-0c66-4188-8f71-481f2f270ddc","type":"unknown"}}
+tmap.id: 22f66436-240e-40fc-a0a4-6ca935a8b767
+tmap.style: {"font":{"size":20}}
+
+Often we define a set of "default" primaries for a given task, such as colour grading or VFX. For example, in the ACES workflow, the working primaries are AP1.
+The "working primaries" role becomes less important in the future as all individual grading tools will operate in their unique colour spaces.

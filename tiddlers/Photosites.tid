@@ -1,0 +1,27 @@
+caption: spectrally\nselective Photosites
+color: #6496c8
+created: 20220325064721159
+creator: daniele
+modified: 20220701151355404
+modifier: daniele
+tags: 
+title: Photosites
+tmap.edges: {"9c2a8647-02bf-4268-ab00-d5f6edfa2955":{"to":"e5bdfbb8-a784-4c98-b1f0-9530ab90d7fb","type":"electrical Signal"}}
+tmap.id: e9790782-102c-49bf-a171-04ec3d9b08ad
+tmap.style: {"color":"#6496c8","font":{"size":20}}
+
+Photosite:
+An individual light-sensitive image sensor element capable of converting light to an electrical signal. You can imagine it as a bucket for collecting photons.
+
+Each photosite reports a single colour component at an addressed location on the sensor. In most current digital color camera sensors individual photosites are generally either filtered red or green or blue, to form a so-called Bayer pattern.
+
+Sensel:
+Sensel is a signal value that conveys the output of an individual photosite as a single colour component value (for example Red or Green or Blue) to contribute to the synthesis of pixels through the demosaicking process.
+
+With most modern digital motion picture cameras, demosaicking (deBayering) of multiple sensels is necessary to obtain a pixel (containing full colour information). Photosites are not pixels, which is a common misconception. The achievable (resolution/definition) is related, but usually not identical, to the count of photosites, depending upon the particulars of the demosaicking (deBayering) algorithm. 
+
+-----
+We need to decide and determine whether we want to say achievable “resolution” or “definition” or “number of pixels” and need to define demosaicking.
+
+“Photosite” refers to a location (on the sensor) and not it’s output as a value, that’s what should be called “Sensel”.
+

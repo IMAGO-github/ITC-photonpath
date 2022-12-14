@@ -1,0 +1,9 @@
+caption: inverse\nOETF
+created: 20220504135953250
+modified: 20221130111408938
+title: Postproduction inverse OETF
+tmap.edges: {"885cb306-3ed4-4a50-8947-c235b7db122a":{"to":"8c3c365d-bf12-4450-8907-17bdaaa038bc","type":"unknown"},"0b457a42-2a69-400f-a400-d68fa5946b6c":{"to":"22f66436-240e-40fc-a0a4-6ca935a8b767","type":"unknown"}}
+tmap.id: 43ed5254-e0cc-4a2e-bedf-6437df3b42a8
+tmap.style: {"font":{"size":20}}
+
+inverts [[Postproduction RAW Decode OETF]] to reconstruct linear light data.

@@ -1,0 +1,10 @@
+caption: Digital Processing
+color: #c86432
+created: 20220504135431574
+modified: 20221130105436752
+title: Postproduction RAW Decode RGB Digital Processing
+tmap.edges: {"3293f7eb-c0fd-4508-b566-6cb0df522b11":{"to":"c66c7e42-7ad1-4af7-858a-77369e5a0e57","type":"unknown"}}
+tmap.id: d0892df5-4de2-49d7-a172-fbff6ff518e1
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+Replicate [[In Camera Digital RGB Processing]]

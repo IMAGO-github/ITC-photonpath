@@ -1,0 +1,12 @@
+caption: DeMosaicking
+created: 20220325222836266
+creator: daniele
+modified: 20221130105357724
+modifier: daniele
+title: SDK DeMosaicking
+tmap.edges: {"e7edb654-712b-4e45-a2e0-750520e9c1dd":{"to":"d0892df5-4de2-49d7-a172-fbff6ff518e1","type":"unknown"}}
+tmap.id: 764c525a-7eb4-4500-b8e8-3ed5e6d0160e
+tmap.style: {"font":{"size":20}}
+
+replicates [[In Camera DeMosaicking]].
+Some SDKs offer Software DeMosaicking, which is superior to the real-time constrained hardware implementation in the camera. But the differences between hardware and software Demosaicking are small nowadays.

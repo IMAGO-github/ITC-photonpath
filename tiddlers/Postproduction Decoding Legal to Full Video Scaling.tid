@@ -1,0 +1,11 @@
+caption: Legal to Full Scaling
+created: 20220504135909944
+modified: 20221130111314119
+title: Postproduction Decoding Legal to Full Video Scaling
+tmap.edges: {"d9734c68-c912-4e9c-bfc3-8f18070eb371":{"to":"43ed5254-e0cc-4a2e-bedf-6437df3b42a8","type":"unknown"}}
+tmap.id: 56b80491-140a-4bdf-8d5e-1f60b23e77a9
+tmap.style: {"font":{"size":20}}
+
+To decode the [[Full Range]] log signal, the previously performed conversion to [[Video Range]], which happened [[in camera | In Camera Recording Full to Legal Scaling]], must be undone.
+
+For more infos see [[Signal Range]]

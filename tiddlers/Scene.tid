@@ -1,0 +1,11 @@
+color: #3264c8
+created: 20220325064701985
+creator: daniele
+modified: 20220701151302436
+modifier: daniele
+title: Scene
+tmap.edges: {"2f696738-f039-4fa4-9d79-7e01015412a9":{"to":"0ec94b45-736e-48df-8b65-692e55222cd9","type":"tmap:unknown"},"acb2cbf4-ff98-484d-a23b-13f51bcd4682":{"to":"47ca8272-3d09-42ed-8c9a-a24e20db27e4","type":"unknown"}}
+tmap.id: ad1610c7-980f-407e-9d9c-a6624c95da9c
+tmap.style: {"color":"#3264c8","font":{"size":20}}
+
+A scene is a collection of objects.....

@@ -1,0 +1,11 @@
+caption: Legal to\nFull
+created: 20220506085919995
+modified: 20221130123152182
+title: On Set Display Decoding Legal to Full
+tmap.edges: {"62a005c2-1918-4a93-9aed-eeb7bfcefecc":{"to":"d166140b-6344-440c-8d7b-432cfa9f1fd2","type":"unknown"}}
+tmap.id: d9eb288e-fdb4-440e-93c6-cadce7351289
+tmap.style: {"font":{"size":20}}
+
+The previously performed conversion to [[Video Range]] must be undone to decode the [[Full Range]] video signal. 
+
+For more infos see [[Signal Range]]

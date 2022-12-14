@@ -1,0 +1,9 @@
+caption: Encoding RGB\nDisplay RGB
+created: 20220506090007715
+modified: 20221130123240953
+title: On Set Display Convert to Display RGB
+tmap.edges: {"1413162c-9638-4e6c-a9f3-6878b258f729":{"to":"eaf2ef7b-aa0e-4087-8b45-fcfb1e2b175e","type":"unknown"}}
+tmap.id: 38d7d41e-bab4-42fc-8407-7c2fcf99781e
+tmap.style: {"font":{"size":20}}
+
+One of the last stages is the transformation from the encoding gamut to the actual gamut of the actual display in use.

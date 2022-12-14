@@ -1,0 +1,14 @@
+caption: Scaling
+created: 20220504141256674
+modified: 20221130113710805
+title: Postproduction Scaling
+tmap.edges: {"c7c74228-b998-4e7c-a396-b2a550d7e3ca":{"to":"f7d890e2-f84f-467e-81c4-fd941c819093","type":"unknown"}}
+tmap.id: d3c1c796-06bd-47f2-be27-f1a1179c6f9c
+tmap.style: {"font":{"size":20}}
+
+Typically a scaling operation to the desired output resolution is performed before colour grading.
+Alternatively, this step is split into two scaling algorithms, one from the input to the working format and, after grading, one from the working to the final deliverable format. 
+Both approaches have their pros and cons.
+
+see:
+https://youtu.be/1fNJe1zImcw?t=1023

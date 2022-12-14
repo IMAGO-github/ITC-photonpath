@@ -1,0 +1,16 @@
+caption: Look\nDevelopment
+color: #c86432
+created: 20220504141710005
+modified: 20221130114826933
+title: Postproduction Look Development
+tmap.edges: {"83173f64-89f7-4d2e-8b0d-b329a52a8e28":{"to":"cd2d042b-45e1-496a-94d0-2b88a95443bb","type":"unknown"},"5b13d264-5e76-42bd-b122-2f0014dc712b":{"to":"e6dbc8bc-2731-48a6-bec0-cdcddcdb5531","type":"unknown"}}
+tmap.id: 4d915914-c829-40b8-a811-761f140f782f
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+Temporal, spatial and colour processes typically applied to all shots:
+
+* colour look
+* grain
+* halation
+* texture
+* domain crosstalk

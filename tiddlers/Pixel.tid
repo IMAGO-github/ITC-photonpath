@@ -1,0 +1,45 @@
+created: 20220506110945053
+modified: 20220506110947713
+title: Pixel
+tmap.id: 15685cc6-f9d1-4cf8-83c7-7a291e21edbc
+
+ITC Glossary
+
+Term: Pixel
+Last date of editing: 2020-09-10
+
+Main document editor: Charles Poynton, David Stump
+signed off date: 
+
+Contributors: Charles Poynton, David Stump, Dirk Meier, ?
+
+
+
+Text C (is a combination of A and B):
+
+Pixel, derived from pix for “picture” and el for “element”. A collection of colour component values (most often red, green, and blue) sufficient to establish the colour of a digitized image element at a particular position/location (?) . In digital imaging with most current cameras pixels must be created from mosaic images (eg, Bayer) by mathematically interpolating samples from adjacent, non co-sited*, red only, green only and blue only photosites, also called demosaicking (deBayer). In other words a mosaic (eg, Bayer) sensor does not directly have pixels; it has photosites. Pixel is distinguished from sensel and photosite. In image post production additional components (channels) can be included, such as pixel coverage information (“alpha”).
+
+Co-sited: At the same location 
+
+Text A:
+
+Picture element, Pixel: formed from pix for “picture” and el for “element,” is the smallest geometric element of a sampled still picture with full color information. The smallest collection of colour component values (most often red, green, and blue) necessary to unambiguously establish the colour of a digitized image element at a particular spatial coördinate. Pixel is distinguished from sensel and photosite. A mosaic (eg, Bayer) sensor does not directly have pixels; for image data originating from a mosaic sensor, pixels arise from the demosaicking (deBayer) process. In image post production and display, additional components (channels) can be included, such as pixel coverage information (“alpha”) or quantities relevant to object geometry such as surface normals (u, v). 
+
+Subpixel: An image display element capable of transducing an electrical signal to light for a single colour component at a spatial coördinate. (A display pixel includes subpixels for all of the colour components implemented at the display.) 
+
+Demosaicking, deBayering: A process of constructing (by interpolation or estimation) colour components corresponding to sensor coördinates where colour components were absent. Through the process of demosaicking, sensels are converted to pixels.
+
+
+Text B:
+
+Level 1:
+Pixel, formed from pix for “picture” and el for “element” (formerly “Picel”), is the smallest geometric element of a sampled still picture with full color information.
+
+Level 2:
+A pixel is the smallest, addressable full color (e.g. RGB) element in a digital image. The address of a pixel corresponds to its physical coordinates on a sensor or screen. Pixels are full color RGB samples of an original image. One of the most important distinctions we can make when talking about digital cinema cameras is that photosites (or sensels) are not pixels. 
+
+Level 3:
+In digital imaging with most current cameras RGB pixels must be created from RAW Bayer images by mathematically interpolating samples from adjacent, non co-sited, red only, green only and blue only photosites. This mathematical averaging of photosite values is called deBayering. Averaging red only, blue only and green only photosites averages not only color, it also averages resolving power of fine detail as well. 
+In image post production and display technology additional channels (values per pixel) can be added, like transparency information (‘alpha’) or a ‘white’ value (as in current consumer OLED displays).
+
+

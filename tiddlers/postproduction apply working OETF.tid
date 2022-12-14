@@ -1,0 +1,9 @@
+caption: apply work(ing)\nOETF
+created: 20220504140326295
+modified: 20221130113407453
+title: postproduction apply working OETF
+tmap.edges: {"7f1886fd-6deb-454d-b0c1-2ca59dc2eee0":{"to":"d3c1c796-06bd-47f2-be27-f1a1179c6f9c","type":"unknown"}}
+tmap.id: 129223a7-0c66-4188-8f71-481f2f270ddc
+tmap.style: {"font":{"size":20}}
+
+Often we apply a certain OETF for a given task, such as colour grading (typically pseudo log). For example, in the ACES workflow, the working OETF is ACES cct. The "working OETF" role becomes less important in the future as all individual grading tools will operate in their unique colour spaces.
