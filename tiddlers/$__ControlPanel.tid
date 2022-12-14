@@ -1,0 +1,11 @@
+color: #bbb
+created: 20220407194319225
+creator: daniele
+icon: $:/core/images/options-button
+modified: 20220702101906386
+modifier: daniele
+title: $:/ControlPanel
+
+<div class="tc-control-panel">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/ControlPanel]!has[draft.of]]" default="$:/core/ui/ControlPanel/Info" explicitState="$:/state/tab-1749438307"/>
+</div>

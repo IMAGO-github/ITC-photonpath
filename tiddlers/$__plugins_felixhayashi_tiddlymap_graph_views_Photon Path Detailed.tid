@@ -1,0 +1,5 @@
+config.background_image: photons_path_bg.svg
+config.vis: {"nodes":{"font":{"size":12}}}
+id: 6e1da255-b8c6-4a74-9334-24727bfc75f0
+isview: true
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Photon Path Detailed

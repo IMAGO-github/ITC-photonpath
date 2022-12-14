@@ -1,0 +1,20 @@
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/map
+
+{
+ "85e1e38b-be5d-413e-b955-75555fce08e1": {
+  "x": 0,
+  "y": 0
+ },
+ "357480f5-701d-4219-8a85-7eddafa6a4ff": {
+  "x": 192,
+  "y": 0
+ },
+ "ad1610c7-980f-407e-9d9c-a6624c95da9c": {
+  "x": -256,
+  "y": -74
+ },
+ "e9790782-102c-49bf-a171-04ec3d9b08ad": {
+  "x": -18,
+  "y": -74
+ }
+}
