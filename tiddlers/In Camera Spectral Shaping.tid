@@ -1,0 +1,10 @@
+caption: Spectral\nShaping
+color: #c86432
+created: 20220506090727368
+modified: 20220506115219983
+title: In Camera Spectral Shaping
+tmap.edges: {"52db41af-4b2c-40cf-bcb1-6bfdf67f0c7c":{"to":"e9790782-102c-49bf-a171-04ec3d9b08ad","type":"unknown"}}
+tmap.id: 3abac884-add0-431d-b655-7f1ce40a8ce1
+
+* IR and UV cut-off filters 
+etc

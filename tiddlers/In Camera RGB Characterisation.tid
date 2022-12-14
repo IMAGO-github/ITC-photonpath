@@ -1,0 +1,14 @@
+caption: Camera RGB Characterisation
+created: 20220504123351988
+modified: 20221130104113988
+title: In Camera RGB Characterisation
+tmap.edges: {"a277c4e2-74e5-4f55-8ad1-90e803ebd504":{"to":"66eee32c-4e65-47cb-b58e-60d7d42b3772","type":"unknown"}}
+tmap.id: 6a0b3b38-969d-41cb-81e7-1446fb9cdb94
+tmap.style: {"font":{"size":20}}
+type: caption
+
+Trying to correlate the camera spectral response to the spectral response of the reference observer 
+e.g. 1931 2˚ XYZ or 2006 LMS
+
+https://www.strollswithmydog.com/raw-color-space-connection/
+http://www.brucelindbloom.com/index.html?Eqn_ChromAdapt.html

@@ -1,0 +1,17 @@
+color: #3264c8
+created: 20220325065745727
+creator: daniele
+modified: 20220701153845289
+modifier: daniele
+title: Illuminant
+tmap.edges: {"7461ea74-0dc8-498e-95db-7225bd8aa1c0":{"to":"ad1610c7-980f-407e-9d9c-a6624c95da9c","type":"tmap:unknown"}}
+tmap.id: 6e9078ab-eb6d-47c0-a0a5-6001f6c0aa12
+tmap.style: {"color":"#3264c8","font":{"size":20}}
+
+Radiation with a relative spectral power distribution defined over the wavelength range that influences object colour perception
+
+E-ILV 17-23-018
+https://cie.co.at/eilvterm/17-23-018
+
+A nice interactive meditation about light and shadow:
+https://ciechanow.ski/lights-and-shadows/

@@ -1,0 +1,13 @@
+caption: electrical\nProcessing
+color: #6496c8
+created: 20220325071553727
+creator: daniele
+modified: 20220512160000760
+modifier: daniele
+tags: 
+title: Electrical Processing
+tmap.edges: {"2661fc78-8f43-435c-8526-4fc73a0e901b":{"to":"0b3118e9-79c8-499e-adc5-4694ca937715","type":"electrical Signal"}}
+tmap.id: e5bdfbb8-a784-4c98-b1f0-9530ab90d7fb
+tmap.style: {"color":"#6496c8","font":{"size":20}}
+
+Everything the cameras does in the electrical domain

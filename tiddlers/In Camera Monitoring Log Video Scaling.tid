@@ -1,0 +1,10 @@
+caption: Full To Legal\nScaling
+created: 20220504124606050
+modified: 20220701151921129
+title: In Camera Monitoring Log Video Scaling
+tmap.edges: {"eed0a3dc-2c04-43b3-b2e5-6fdf6a9702cc":{"to":"f2dbf756-201c-467b-9880-13a162d6fad8","type":"unknown"}}
+tmap.id: 89830989-a46f-42cd-875f-b2b06ce39c4a
+tmap.style: {"font":{"size":20}}
+
+For live grading, the log output of a camera is sent over SDI for further grading. Typically the log signal is encoded in [[Video Range]], especially if [[Colour Subsampling]] is used.
+For mor infos see [[Signal Range]]

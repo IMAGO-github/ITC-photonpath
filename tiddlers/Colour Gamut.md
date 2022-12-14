@@ -1,0 +1,3 @@
+- In a colour space, the range of colours representable. 
+- In digital image data, the boundary of all of the colours that are present in a particular image or set of images. 
+- In a display device, the range of colours displayable. 

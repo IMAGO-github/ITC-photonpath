@@ -1,0 +1,17 @@
+caption: Digital\nProcessing
+color: #036464
+created: 20220325221530275
+creator: daniele
+modified: 20221130102740586
+modifier: daniele
+title: In Camera Digital RAW Processing
+tmap.edges: {"bc83a2e9-c914-4fff-a8bb-d7737bac343a":{"to":"62bb6c47-3153-49dd-b832-e4b27758cbd7","type":"tmap:unknown"},"219f1599-33fe-410f-b92c-306aa56acd3f":{"to":"315ddf56-a21b-45f6-a2a6-a82d125d65dc","type":"tmap:unknown"}}
+tmap.id: bc80d1d7-0eb9-48fb-9cfd-d84c93edcbc0
+tmap.style: {"color":"#036464","font":{"size":20}}
+
+Every digital process done before debayering:
+
+* Dead pixel repairs
+* black offset
+* stitching 
+etc...

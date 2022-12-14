@@ -1,0 +1,11 @@
+caption: Lens
+color: #c86432
+created: 20220506090656414
+modified: 20220506115111071
+title: In Camera Lens
+tmap.edges: {"5ab1f570-bec0-42fa-9268-d4c54ba6fcb7":{"to":"54a8df95-6371-4e34-9e8e-f511d16fd9ec","type":"unknown"}}
+tmap.id: c7e72987-d589-4f90-a5e7-dcab886a506a
+
+A nice introduction to geometrical optics:
+
+https://ciechanow.ski/cameras-and-lenses/

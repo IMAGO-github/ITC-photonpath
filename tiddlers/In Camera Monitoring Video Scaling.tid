@@ -1,0 +1,10 @@
+caption: Full To Legal\nScaling
+created: 20220504125133799
+modified: 20220701151937254
+title: In Camera Monitoring Video Scaling
+tmap.edges: {"8b62b301-87b6-494e-92a3-6ae212e3b2ea":{"to":"d9eb288e-fdb4-440e-93c6-cadce7351289","type":"unknown"}}
+tmap.id: f23e6630-3d2e-4896-b4a2-d0880bef192d
+tmap.style: {"font":{"size":20}}
+
+For an out-of-camera preview, the final video output of a camera is sent over SDI to the monitor. Typically the video signal is encoded in [[Legal Range]], especially if [[Colour Subsampling]] is used.
+For mor infos see [[Signal Range]]

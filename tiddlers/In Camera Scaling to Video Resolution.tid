@@ -1,0 +1,9 @@
+caption: Scaling to\nVideo Resolution
+created: 20220504124120774
+modified: 20220701151835774
+title: In Camera Scaling to Video Resolution
+tmap.edges: {"fdfa8cef-0228-4021-9c97-c25e8b3cf9f4":{"to":"fee21ee6-c71c-4b76-89ce-04103ce434e7","type":"unknown"},"a7cde458-7d34-4826-8031-ead7c1a51a77":{"to":"89830989-a46f-42cd-875f-b2b06ce39c4a","type":"unknown"}}
+tmap.id: df24845a-6621-493e-b2e8-7386e23f6971
+tmap.style: {"font":{"size":20}}
+
+Typically a simple [[Scaling Algorithm]] for real-time scaling inside a camera just for preview purposes. Targets are standardised video modes

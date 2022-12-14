@@ -1,0 +1,9 @@
+caption: OETF
+created: 20220504123658764
+modified: 20220504123817824
+title: In Camera OETF
+tmap.edges: {"5a149476-2a4e-4961-9a56-f56bf307c527":{"to":"3b4c566c-0730-4e05-bd5b-deb9877ad32d","type":"unknown"}}
+tmap.id: 66eee32c-4e65-47cb-b58e-60d7d42b3772
+tmap.style: {"font":{"size":20}}
+
+Please see [[OETF]] for more information about the camera conversion from linear to encoding.

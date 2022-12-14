@@ -1,0 +1,15 @@
+caption: RGB\nRecording
+color: #008c28
+created: 20220504131335236
+modified: 20221130105744854
+title: In Camera RGB Recording
+tmap.edges: {"79c51562-d385-4849-aa18-8b307b2217e0":{"to":"51487feb-73b4-4018-8795-c851169414ee","type":"unknown"}}
+tmap.id: 88fe0eda-fd31-4616-b78f-b99d2ef17dcc
+tmap.style: {"color":"#008c28","font":{"size":20}}
+
+* possible compression
+* Possible reconstruction of YCC data from RGB.
+
+Generally, why want to record log:
+
+* https://www.youtube.com/watch?v=GWwq3tqe6mw&t=774s

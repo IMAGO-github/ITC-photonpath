@@ -1,0 +1,10 @@
+caption: Spatial\nProcessing
+color: #c86432
+created: 20220504123920161
+modified: 20220701151631415
+title: In Camera Spatial Processing
+tmap.edges: {"d92a4c78-d2a5-499e-8656-fdf82678dd7c":{"to":"df24845a-6621-493e-b2e8-7386e23f6971","type":"unknown"},"a5d3e112-4aba-420e-bbc3-a3a98fa9f5f3":{"to":"cb766c98-bba5-4be5-b843-9e18ee5ff485","type":"unknown"}}
+tmap.id: 3b4c566c-0730-4e05-bd5b-deb9877ad32d
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+In-Camera Spatial Processing is typically a lightweight implementation of [[Spatial Processing]].

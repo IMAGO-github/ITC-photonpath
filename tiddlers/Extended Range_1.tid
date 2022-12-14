@@ -1,0 +1,7 @@
+created: 20220506110013249
+modified: 20220506110616791
+title: Extended Range
+tmap.id: 1282fbf1-8b35-4e0e-a08f-e9e928e965a7
+
+Image data where reference black at a 10‑bit interface has a code (data) value substantially less than 64. (See Video range.)
+Often minimum value (black) and maximum value (white) are at the interface codes 4 and 1019, respectively, but other limits or reference points are in use.

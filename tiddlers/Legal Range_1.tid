@@ -1,0 +1,6 @@
+created: 20220506110003004
+modified: 20220506110648889
+title: Legal Range
+tmap.id: eafb3809-1e1f-4a80-b13a-ea99fbbd996b
+
+[[Video Range]] image data where data values outside the reference range are not permitted, that is, using 10‑bit data values 64 through 940 but prohibiting values outside this range. Also called narrow.

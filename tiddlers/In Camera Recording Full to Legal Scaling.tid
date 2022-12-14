@@ -1,0 +1,11 @@
+caption: Full To Legal\nScaling
+created: 20220504124421622
+modified: 20221130115701201
+title: In Camera Recording Full to Legal Scaling
+tmap.edges: {"4d6cc982-e145-419e-8f4d-406be712f241":{"to":"88fe0eda-fd31-4616-b78f-b99d2ef17dcc","type":"unknown"}}
+tmap.id: fa49655b-f5b9-4655-b7df-91ced9fceccc
+tmap.style: {"font":{"size":20}}
+
+For log recording into [[Video Container]], typically, the log signal is encoded in [[Video Range]], especially if [[Colour Subsampling]] is used.
+
+For more infos see [[Signal Range]].

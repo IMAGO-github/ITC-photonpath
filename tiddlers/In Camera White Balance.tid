@@ -1,0 +1,12 @@
+caption: White\nBalance
+color: #c86432
+created: 20220325221651158
+creator: daniele
+modified: 20221130102823959
+modifier: daniele
+title: In Camera White Balance
+tmap.edges: {"1427f66c-bd0f-4a7d-bfe4-0d9f258bd17d":{"to":"43d8c3cd-a280-4d65-b6e5-585c359eb207","type":"tmap:unknown"}}
+tmap.id: 62bb6c47-3153-49dd-b832-e4b27758cbd7
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+Scaling RGB [[Sensel]] to make a spectrally unselective (neutral) object elicit R=G=B.

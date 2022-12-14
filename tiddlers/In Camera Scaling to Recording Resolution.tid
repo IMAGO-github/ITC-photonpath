@@ -1,0 +1,9 @@
+caption: Scaling to \n Recording Resolution
+created: 20220504124301918
+modified: 20220701151753789
+title: In Camera Scaling to Recording Resolution
+tmap.edges: {"5f9436d2-dda5-4248-b504-359d374f06ce":{"to":"fa49655b-f5b9-4655-b7df-91ced9fceccc","type":"unknown"}}
+tmap.id: cb766c98-bba5-4be5-b843-9e18ee5ff485
+tmap.style: {"font":{"size":20}}
+
+Typically a more sophisticated [[Scaling Algorithm]] for real-time scaling inside a camera just for preview purposes. Targets are standardised video modes.

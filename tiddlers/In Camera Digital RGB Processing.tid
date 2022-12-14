@@ -1,0 +1,14 @@
+caption: Ditigal RGB Processing
+color: #c86432
+created: 20220504123234492
+modified: 20221130103245614
+title: In Camera Digital RGB Processing
+tmap.edges: {"31097b76-a1cb-4ef1-aa2f-544d6c40dd30":{"to":"6a0b3b38-969d-41cb-81e7-1446fb9cdb94","type":"unknown"}}
+tmap.id: 9a822341-1b5d-465a-8b98-aed755eb5c77
+tmap.style: {"color":"#c86432","font":{"size":20}}
+
+* Detailing
+* Sharpening
+* Denoising
+* Regraining
+* Scaling

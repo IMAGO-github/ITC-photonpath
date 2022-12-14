@@ -1,0 +1,12 @@
+caption: DeMosaicking
+color: #007d7d
+created: 20220325221857384
+creator: daniele
+modified: 20221130103008413
+modifier: daniele
+title: In Camera DeMosaicking
+tmap.edges: {"a30d54f4-fb37-4688-ae1d-8e77f8dc28a9":{"to":"315ddf56-a21b-45f6-a2a6-a82d125d65dc","type":"dashed"},"23e5f1fc-a87c-4347-b153-1ea555f3f1f6":{"to":"9a822341-1b5d-465a-8b98-aed755eb5c77","type":"unknown"}}
+tmap.id: 43d8c3cd-a280-4d65-b6e5-585c359eb207
+tmap.style: {"color":"#007d7d","font":{"size":20}}
+
+https://en.wikipedia.org/wiki/Demosaicing
